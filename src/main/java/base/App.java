@@ -37,7 +37,7 @@ public class App {
         String adv = in.nextLine();
 
         String str1 = "Do you " + verb + " " + "your " + adj + " " + noun + " " +adv + "?";
-        String str2 = " That's hilarious";
+        String str2 = " That's hilarious!";
         System.out.println(str1 + str2);
     }
 }
